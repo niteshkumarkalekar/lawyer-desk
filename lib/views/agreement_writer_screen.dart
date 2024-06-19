@@ -11,7 +11,6 @@ class AgreementWriterScreen extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-
       appBar: AppBar(
         title: const Text("Agreement Writer", style: MediumTextStyle(color: Colors.white),),
         flexibleSpace: Container(
